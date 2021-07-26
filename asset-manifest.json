@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ContactBook.UI.React/static/css/main.b73b7477.chunk.css",
+    "main.js": "/ContactBook.UI.React/static/js/main.1f8aedcf.chunk.js",
+    "main.js.map": "/ContactBook.UI.React/static/js/main.1f8aedcf.chunk.js.map",
+    "runtime-main.js": "/ContactBook.UI.React/static/js/runtime-main.244bed57.js",
+    "runtime-main.js.map": "/ContactBook.UI.React/static/js/runtime-main.244bed57.js.map",
+    "static/css/2.4be38407.chunk.css": "/ContactBook.UI.React/static/css/2.4be38407.chunk.css",
+    "static/js/2.4cf89ecc.chunk.js": "/ContactBook.UI.React/static/js/2.4cf89ecc.chunk.js",
+    "static/js/2.4cf89ecc.chunk.js.map": "/ContactBook.UI.React/static/js/2.4cf89ecc.chunk.js.map",
+    "static/js/3.ce2a00e9.chunk.js": "/ContactBook.UI.React/static/js/3.ce2a00e9.chunk.js",
+    "static/js/3.ce2a00e9.chunk.js.map": "/ContactBook.UI.React/static/js/3.ce2a00e9.chunk.js.map",
+    "index.html": "/ContactBook.UI.React/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/ContactBook.UI.React/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.b73b7477.chunk.css.map": "/ContactBook.UI.React/static/css/main.b73b7477.chunk.css.map",
+    "static/js/2.4cf89ecc.chunk.js.LICENSE.txt": "/ContactBook.UI.React/static/js/2.4cf89ecc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ContactBook.UI.React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.244bed57.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.4cf89ecc.chunk.js",
+    "static/css/main.b73b7477.chunk.css",
+    "static/js/main.1f8aedcf.chunk.js"
+  ]
+}
