@@ -8,6 +8,8 @@ Its a contact book application which has the following functionalities
 - Delete Contact
 - List Contact
 
+Note - Use branch gh-pages for buid and master for source code in github
+
 **Folder Structure**
   
   ![image](https://user-images.githubusercontent.com/87966614/126981169-153bff93-73a1-4b19-8d2d-beb2c9a0f23b.png)
